@@ -31,4 +31,5 @@ Il progetto segue il flusso di lavoro standard end-to-end:
 
 ---
 
-<img width="1408" height="755" alt="Screenshot 2026-09-15 175856" src="https://github.com/user-attachments/assets/2defb600-1af6-49b9-b78e-d230775fad27" />
+<img width="1327" height="727" alt="image" src="https://github.com/user-attachments/assets/7ee985fa-d24e-484c-accb-cae886936355" />
+
